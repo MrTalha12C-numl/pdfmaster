@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
-  "dependencies": {
+  "dependencies": {"@vercel/speed-insihgts": "^1.0.0"
     "@supabase/supabase-js": "^2.57.4",
     "framer-motion": "^12.42.2",
     "lucide-react": "^0.344.0",
